@@ -1,0 +1,25 @@
+.main-div,h1
+{
+    display: flex;
+    justify-content: center;
+
+}
+
+.datas{
+    
+    background-color: white;
+    width: 350px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.datas:hover{
+    background-color: black;
+    color: aliceblue;
+    /* border: 1px solid white; */
+}
+
+
+
+
